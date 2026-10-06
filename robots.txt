@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://storylineworks.github.io/workflow-scout/sitemap.xml
